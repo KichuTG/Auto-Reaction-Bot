@@ -3,7 +3,7 @@ from os import environ as env
 class Telegram:
     API_ID = int(env.get("API_ID", "28714959"))
     API_HASH = env.get("API_HASH", "c0b9797634090ee3f4c1c56db6c051a7")
-    BOT_TOKEN = env.get("BOT_TOKEN", "5558994705:AAG-iw2NrfkLnYxgq8Tv2b9uoAed04BYcLE")
+    BOT_TOKEN = env.get("BOT_TOKEN", "5289869101:AAEoFxr3FUj8N6l8lMSZaPm-sq43240F1Ns")
     BOT_USERNAME = env.get("BOT_USERNAME", "tgpowerbot")
     EMOJIS = [
         "👍", "🙃", "❤", "🔥", 
